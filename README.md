@@ -1,6 +1,7 @@
+
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Hey%2C%20I%27m%20Om%20Rameshwar%20Surase%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%26%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=55&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Om%20Rameshwar%20Surase%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%ANand%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=55&descAlign=50)
 
 [![Followers](https://img.shields.io/github/followers/OmSurase1411?label=Followers&style=social)](https://github.com/OmSurase1411?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--surase-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/om-surase)
@@ -43,14 +44,11 @@ I'm a **Master's student in Computer Science (Big Data & AI)** based in **Leipzi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
 
 ## 🔥 Featured Projects
 
