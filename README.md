@@ -1,129 +1,79 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Om+Rameshwar+Surase!;🤖+Building+Agents+that+Think+%26+Act;🔧+LLM+Orchestration+·+RAG+·+FastAPI;🇩🇪+Open+to+Werkstudent+Roles+in+Germany)](https://git.io/typing-svg)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Hey%2C%20I%27m%20Om%20Rameshwar%20Surase%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%26%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=55&descAlign=50)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--surase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-surase)
-[![GitHub](https://img.shields.io/badge/GitHub-OmSurase1411-2d333b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmSurase1411)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-omsurase72@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsurase72@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Leipzig,_Germany-1f6feb?style=for-the-badge)](https://maps.google.com/?q=Leipzig,Germany)
+[![Followers](https://img.shields.io/github/followers/OmSurase1411?label=Followers&style=social)](https://github.com/OmSurase1411?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--surase-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/om-surase)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://your-portfolio-link.com)
+![Profile Views](https://komarev.com/ghpvc/?username=OmSurase1411&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-> Master's student in **Computer Science (Big Data & Artificial Intelligence)** at SRH University, Leipzig.
-> I build real AI systems — not just experiments, but **agent architectures**, backends, and pipelines that create measurable impact.
+I'm a **Master's student in Computer Science (Big Data & AI)** based in **Leipzig, Germany**, passionate about building real-world AI systems that create measurable impact — not just experiments, but actual agent architectures, backends, and pipelines.
 
-- 🤖 Deep interest in **Agentic AI**, LLM orchestration, and RAG systems
-- 🏗️ I care about clean, modular **backend architecture** and scalable design
-- 📊 Strong foundation in **statistical analysis**, EDA, and data pipelines
-- 🇩🇪 Based in **Leipzig, Germany** — actively seeking a **Werkstudent role**
-- 🌱 Currently levelling up my **German** (A2 → B1)
+- 🤖 I build **Agentic AI systems**, LLM orchestration pipelines, and RAG applications  
+- 🏗️ I focus on **clean, scalable backend architecture**  
+- 📊 Strong in **data analytics, EDA, and statistical analysis**  
+- 🤝 Interested in **AI + multi-agent collaboration systems**  
+- 📍 Leipzig, Germany | Originally Pune, India  
+- 🔍 Actively seeking a **Werkstudent role (AI / Data / Backend)**  
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 Tech Stack
 
-### 🤖 AI & Intelligent Systems
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-58a6ff?style=flat-square)
-![Agent Architecture](https://img.shields.io/badge/Agent_Architecture-58a6ff?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-58a6ff?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-58a6ff?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-58a6ff?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-58a6ff?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-58a6ff?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-58a6ff?style=flat-square)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI & Systems
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3fb950?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3fb950?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-3fb950?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-3fb950?style=flat-square)
-![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-3fb950?style=flat-square)
-![Regression Modeling](https://img.shields.io/badge/Regression_Modeling-3fb950?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-3fb950?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🔧 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-f78536?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-f78536?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-f78536?style=flat-square)
-![C++](https://img.shields.io/badge/C++-f78536?style=flat-square&logo=cplusplus&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-ffa657?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ffa657?style=flat-square&logo=github&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-ffa657?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-ffa657?style=flat-square&logo=microsoftoffice&logoColor=white)
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agent Tool Server
-**Agentic AI Backend System**
-
-Modular agent-based backend enabling LLMs to reason and execute tasks using locally hosted models via Ollama. Separates agent logic, tool execution, and orchestration layers for clean scalability.
-
-`Python` `FastAPI` `Ollama` `Tool Calling` `LLM Orchestration`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ AI Smart City Emergency Platform
-**Microsoft AI Dev Days Hackathon**
-
-Multi-agent platform for real-time emergency detection, severity classification, and intelligent dispatch. Parallel NLP/Vision/Speech agent pipeline with human-in-the-loop oversight.
-
-`Azure OpenAI GPT-4o` `Blazor` `Multi-Agent AI` `Azure Maps`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Mindfuel Analysis
-**AI Adoption Analytics**
-
-Statistical study of AI adoption trends using real business data. Applied EDA, regression modeling, paired t-test, and one-way ANOVA with clear visualizations.
-
-`Pandas` `NumPy` `EDA` `ANOVA` `Regression`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Jarvis — Voice Assistant
-**Voice-Activated AI**
-
-Python-based voice assistant with NLP intent detection, real-time data retrieval, and hands-free automation workflows triggered by speech commands.
-
-`Python` `NLP` `Speech Recognition` `Automation`
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|--------|------------|------|
+| 🤖 [Agent Tool Server](https://github.com/OmSurase1411/agent-tool-server) | Agentic AI backend with modular tool execution using local LLMs | Python, FastAPI, Ollama |
+| 🏙️ [AI Smart City Emergency Platform](https://github.com/OmSurase1411) | Multi-agent emergency coordination system (Hackathon project) | Azure OpenAI, Blazor, C# |
+| 📊 [Mindfuel Analysis](https://github.com/OmSurase1411) | Statistical AI adoption analysis using regression & ANOVA | Python, Pandas |
+| 🎙️ [Jarvis Voice Assistant](https://github.com/OmSurase1411) | Voice-based assistant with NLP intent recognition | Python |
+| 💬 [Auto-Reply AI Chatbot](https://github.com/OmSurase1411) | GPT-powered chatbot with modular backend | Python |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmSurase1411&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmSurase1411&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="160"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=OmSurase1411&theme=tokyonight&hide_border=true)
 
-<br/><br/>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmSurase1411&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmSurase1411&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" height="150"/>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmSurase1411&theme=tokyonight)
+![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmSurase1411&theme=tokyonight)
 
 </div>
 
@@ -132,7 +82,7 @@ Python-based voice assistant with NLP intent detection, real-time data retrieval
 ## 💼 Experience
 
 | Role | Company | Period |
-|---|---|---|
+|------|--------|--------|
 | 🏗️ Associate Fiber Engineer | **Amdocs** | Apr – Aug 2025 |
 | 🧩 Associate Process Executive | **NVIDIA Graphics Pvt. Ltd.** | Aug – Sep 2024 |
 | 💻 IT Support Specialist | **Kunal Electrical Services** | Oct 2024 – Feb 2025 |
@@ -142,27 +92,29 @@ Python-based voice assistant with NLP intent detection, real-time data retrieval
 ## 🎓 Education
 
 | Degree | Institution | Period |
-|---|---|---|
-| 🎓 M.Sc. Computer Science (Big Data & AI) | SRH University, Heidelberg | 2025 – Present |
+|--------|------------|--------|
+| 🎓 M.Sc. Computer Science (Big Data & AI) | SRH University of Applied Sciences Heidelberg | 2025 – Present |
 | 🎓 B.E. Electronics & Telecommunication | D. Y. Patil College of Engineering, Pune | 2020 – 2024 |
 
 ---
 
-## 🌐 Languages
+## 🤝 Connect With Me
 
-![English](https://img.shields.io/badge/English-Fluent-2196F3?style=flat-square)
-![German](https://img.shields.io/badge/German-A2_Learning-4CAF50?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Native-FF9800?style=flat-square)
-![Marathi](https://img.shields.io/badge/Marathi-Mother_Tongue-9C27B0?style=flat-square)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-surase)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmSurase1411)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsurase72@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-![footer](https://img.shields.io/badge/Open_to-Werkstudent_Opportunities-1f6feb?style=for-the-badge)
+*"I build AI systems that think and act — not just models, but complete intelligent systems."*
 
-**🔍 AI · Data · Backend Engineering · Germany**
-
-*⭐ Star a repo if you find something useful!*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer)
 
 </div>
