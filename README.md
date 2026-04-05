@@ -5,7 +5,7 @@
 
 [![Followers](https://img.shields.io/github/followers/OmSurase1411?label=Followers&style=social)](https://github.com/OmSurase1411?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--surase-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/om-surase)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://omsurase1411.github.io/Portfolio-Website/Portfolio.html)
 ![Profile Views](https://komarev.com/ghpvc/?username=OmSurase1411&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
@@ -103,7 +103,7 @@ I'm a **Master's student in Computer Science (Big Data & AI)** based in **Leipzi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-surase)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmSurase1411)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omsurase72@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://omsurase1411.github.io/Portfolio-Website/Portfolio.html)
 
 </div>
 
