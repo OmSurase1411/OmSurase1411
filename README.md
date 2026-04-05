@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Om%20Rameshwar%20Surase&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%26%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agents+that+Think+%26+Act+%F0%9F%A4%96;LLM+Orchestration+%C2%B7+RAG+%C2%B7+FastAPI+%F0%9F%94%A7;Open+to+Werkstudent+Roles+in+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Om+Rameshwar+Surase!;🤖+Building+Agents+that+Think+%26+Act;🔧+LLM+Orchestration+·+RAG+·+FastAPI;🇩🇪+Open+to+Werkstudent+Roles+in+Germany)](https://git.io/typing-svg)
 
 <br/>
 
@@ -163,9 +159,9 @@ Python-based voice assistant with NLP intent detection, real-time data retrieval
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+![footer](https://img.shields.io/badge/Open_to-Werkstudent_Opportunities-1f6feb?style=for-the-badge)
 
-**🔍 Open to Werkstudent opportunities in AI · Data · Backend Engineering · Germany**
+**🔍 AI · Data · Backend Engineering · Germany**
 
 *⭐ Star a repo if you find something useful!*
 
